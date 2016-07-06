@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1032908261615",
+    "project_id": "bright-zodiac-136117"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032908261615:android:f9880aec12b9948d",
+        "android_client_info": {
+          "package_name": "com.example.admin.googleintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032908261615-vmkadt1irjop4drfvk9js14gnkpa0sgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.googleintegration",
+            "certificate_hash": "DDECD994C20F2115FE1F0A73879FB8259F0380F0"
+          }
+        },
+        {
+          "client_id": "1032908261615-t233f8olbfh4us76rs1cmefr0kj3ukk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifdarAFP4zNBzEmWgYxTX3b2yWo29aJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
